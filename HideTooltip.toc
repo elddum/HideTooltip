@@ -1,0 +1,5 @@
+## Interface: 11200
+## Title: Hide Tooltip
+## Author: Muddle (elddum)
+
+HideTooltip.lua
